@@ -1,0 +1,12 @@
+body {
+	background: #ddd;
+}
+
+#main-wrapper {
+	width: 1000px;
+	min-height: 600px;
+	margin: auto;
+	background: #efffef;
+	border-radius: 20px;
+	padding: 20px;
+}
